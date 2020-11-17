@@ -9,6 +9,9 @@
     src: url("../font/ami.ttf") format("truetype")
 }
 
+*{margin:0; padding:0}
+
+
 body{
     font-family: font-bangla;
 }
